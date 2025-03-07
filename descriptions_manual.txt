@@ -1,0 +1,7 @@
+Immagine 0: 17-frame sprite animation of: red-haired hobbit in green cape, that: shoots with slingshot, facing: East - Griglia 5x5 - 25 frame
+Immagine 1: 13-frame sprite animation of: red-haired hobbit in green cape, that: blocks an attack with staff, facing: East - Griglia 4x4 - 16 frame
+Immagine 2: 7-frame sprite animation of: knight in silver armor with red pants, that: is attacking with sword while crouching, facing: East - Griglia 4x2 - 8 frame
+Immagine 3: 8-frame sprite animation of: woman in green dress with red hair, that: is dancing, facing: West - Griglia 3x4 - 12 frame
+Immagine 4: 8-frame sprite animation of: woman in green dress with red hair, that: is dancing, facing: South - Griglia 3x4 - 12 frame
+Immagine 5: 8-frame sprite animation of: woman in green dress with red hair, that: is dancing, facing: South - Griglia 3x4 - 12 frame
+Immagine 6: 10-frame sprite animation of: long-haired elf archer wearing a green cloak with a white wooden bow, that: thrusts his arrow like a sword to melee attack, facing: East - Griglia 6x3 - 18 frame
